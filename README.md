@@ -13,3 +13,5 @@ A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models
 
 ▶ Comparing Memory Systems for LLM Agents: Vector, Graph, and Event Logs [Full Comparison](https://www.marktechpost.com/2025/11/10/comparing-memory-systems-for-llm-agents-vector-graph-and-event-logs/) 
 
+▶ Comparing the Top 6 Agent-Native Rails for the Agentic Internet: MCP, A2A, AP2, ACP, x402, and Kite [Full Comparison](https://www.marktechpost.com/2025/11/14/comparing-the-top-6-agent-native-rails-for-the-agentic-internet-mcp-a2a-ap2-acp-x402-and-kite/) 
+
