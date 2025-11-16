@@ -17,3 +17,5 @@ A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models
 
 ▶ Comparing the Top 6 Agent-Native Rails for the Agentic Internet: MCP, A2A, AP2, ACP, x402, and Kite [Full Comparison](https://www.marktechpost.com/2025/11/14/comparing-the-top-6-agent-native-rails-for-the-agentic-internet-mcp-a2a-ap2-acp-x402-and-kite/) 
 
+▶ Comparing the Top 4 Agentic AI Browsers in 2025: Atlas vs Copilot Mode vs Dia vs Comet [Full Comparison](https://www.marktechpost.com/2025/11/15/comparing-the-top-4-agentic-ai-browsers-in-2025-atlas-vs-copilot-mode-vs-dia-vs-comet/) 
+
