@@ -5,6 +5,8 @@ A directory of comparison insights on various AI Dev Tools/Frameworks/LLM Models
 
 
 
+▶ vLLM vs TensorRT-LLM vs HF TGI vs LMDeploy, A Deep Technical Comparison for Production LLM Inference [Full Comparison](https://www.marktechpost.com/2025/11/19/vllm-vs-tensorrt-llm-vs-hf-tgi-vs-lmdeploy-a-deep-technical-comparison-for-production-llm-inference/)  [Comparison table](https://github.com/Marktechpost/comparison-ai-tools-frameworks-models/blob/main/Comparison%20Tables/Copy%20of%20infograp%201200x700.png)
+
 ▶ Focal Loss vs Binary Cross-Entropy: A Practical Guide for Imbalanced Classification [Full Comparison](https://www.marktechpost.com/2025/11/17/focal-loss-vs-binary-cross-entropy-a-practical-guide-for-imbalanced-classification/)  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Imbalanced_Datasets.ipynb)
 
 ▶ Comparing the Top 5 AI Agent Architectures in 2025: Hierarchical, Swarm, Meta Learning, Modular, Evolutionary [Full Comparison](https://www.marktechpost.com/2025/11/15/comparing-the-top-5-ai-agent-architectures-in-2025-hierarchical-swarm-meta-learning-modular-evolutionary/)  [Comparison Table](https://github.com/Marktechpost/comparison-ai-tools-frameworks-models/blob/main/Comparison%20Tables/Comparing%20the%20Top%205%20AI%20Agent%20Architectures%20in%202025%20Hierarchical%2C%20Swarm%2C%20Meta%20Learning%2C%20Modular%2C%20Evolutionary.pdf)
